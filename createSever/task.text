@@ -1,0 +1,8 @@
+port = http://localhost:3000/
+
+
+task 1 : create home route  to display the welcome message.
+
+task 2 : craete get all users  route
+
+task 3 : create to get a single specific user data
